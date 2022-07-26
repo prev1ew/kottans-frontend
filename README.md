@@ -35,7 +35,7 @@ Front-End Course [kottans-frontend](https://github.com/kottans/frontend/blob/202
 
   <details>
     <summary>Что удивило</summary>
-    Пройденный функционал про разработке соло врядли както будет полезен
+    Пройденный функционал про разработке соло врядли както будет полезен (т.е. и при прохождении этого курса вполне вероятно тоже)
   </details>
 
   <details>
