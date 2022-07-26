@@ -22,3 +22,24 @@ Front-End Course [kottans-frontend](https://github.com/kottans/frontend/blob/202
     Http requests with React, по линухе врядли чтото с нового материала нужно будет при повседневном использовании линукса (там все-таки DE обычно ставят что бы не юзать эти команды)
   </details>
 </details>
+
+## Git Collaboration
+[Part 1](https://github.com/prev1ew/kottans-frontend/blob/main/task_git_collaboration/p1.png)
+[Part 2](https://github.com/prev1ew/kottans-frontend/blob/main/task_git_collaboration/p2.png)
+<details>
+<summary>Фидбек</summary>
+  <details>
+    <summary>Что узнал нового</summary>
+    Гит оказывается многофункциональный
+  </details>
+
+  <details>
+    <summary>Что удивило</summary>
+    Пройденный функционал про разработке соло врядли както будет полезен
+  </details>
+
+  <details>
+    <summary>Что планирую использовать</summary>
+    Пока соло разрабатываю - нечего, при командной работе крайне редко но все-же нужно будет использовать пройденное
+  </details>
+</details>
