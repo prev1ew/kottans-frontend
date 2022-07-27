@@ -43,3 +43,24 @@ Front-End Course [kottans-frontend](https://github.com/kottans/frontend/blob/202
     Пока соло разрабатываю - нечего, при командной работе крайне редко но все-же нужно будет использовать пройденное
   </details>
 </details>
+
+## Intro to HTML and CSS
+[HTML](https://github.com/prev1ew/kottans-frontend/blob/main/task_html_css_intro/HTML.png)
+[CSS](https://github.com/prev1ew/kottans-frontend/blob/main/task_html_css_intro/CSS.png)
+<details>
+<summary>Фидбек</summary>
+  <details>
+    <summary>Что узнал нового</summary>
+    В целом ничего, так как раньше сталкивался с HTML и CSS
+  </details>
+
+  <details>
+    <summary>Что удивило</summary>
+    Нечего, все в рамках ожидаемого
+  </details>
+
+  <details>
+    <summary>Что планирую использовать</summary>
+    HTML и CSS неотъемлемая часть front-end разработки, поэтому все планирую использовать при разработке front-end части
+  </details>
+</details>
