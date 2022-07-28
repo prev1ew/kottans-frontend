@@ -64,3 +64,24 @@ Front-End Course [kottans-frontend](https://github.com/kottans/frontend/blob/202
     HTML и CSS неотъемлемая часть front-end разработки, поэтому все планирую использовать при разработке front-end части
   </details>
 </details>
+
+## Responsive Web Design
+[FLEXBOX](https://github.com/prev1ew/kottans-frontend/blob/main/task_responsive_web_design/Flex.png)
+[CSS Grid Layout](https://github.com/prev1ew/kottans-frontend/blob/main/task_responsive_web_design/Grid.png)
+<details>
+<summary>Фидбек</summary>
+  <details>
+    <summary>Что узнал нового</summary>
+    Для меня эти 2 раздела были новыми, т.е. все что узнал - новое
+  </details>
+
+  <details>
+    <summary>Что удивило</summary>
+    Все настраивается конкретно в CSS файле
+  </details>
+
+  <details>
+    <summary>Что планирую использовать</summary>
+    И то и другое очень полезно когда хочешь сделать сайт, который будет нормально отображаться как на телефоне так и на ПК
+  </details>
+</details>
