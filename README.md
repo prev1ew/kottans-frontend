@@ -85,3 +85,7 @@ Front-End Course [kottans-frontend](https://github.com/kottans/frontend/blob/202
     И то и другое очень полезно когда хочешь сделать сайт, который будет нормально отображаться как на телефоне так и на ПК
   </details>
 </details>
+
+## HTML-CSS-Popup
+[Code](https://github.com/prev1ew/kottans-frontend/blob/main/task_html_css_popup)
+[Demo](https://prev1ew.github.io/)
