@@ -1,8 +1,8 @@
 Front-End Course [kottans-frontend](https://github.com/kottans/frontend/blob/2022_UA/contents.md)
 ## Linux CLI, and HTTP
-[Quiz 1](https://github.com/prev1ew/kottans-frontend/blob/main/task_linux_cli/q1.png)
-[Quiz 2](https://github.com/prev1ew/kottans-frontend/blob/main/task_linux_cli/q2.png)
-[Quiz 3](https://github.com/prev1ew/kottans-frontend/blob/main/task_linux_cli/q3.png)
+[Quiz 1](https://github.com/prev1ew/kottans-frontend/blob/main/task_linux_cli/q1.png)  
+[Quiz 2](https://github.com/prev1ew/kottans-frontend/blob/main/task_linux_cli/q2.png)  
+[Quiz 3](https://github.com/prev1ew/kottans-frontend/blob/main/task_linux_cli/q3.png)  
 [Quiz 4](https://github.com/prev1ew/kottans-frontend/blob/main/task_linux_cli/q4.png)
 <details>
 <summary>Фидбек</summary>
@@ -24,7 +24,7 @@ Front-End Course [kottans-frontend](https://github.com/kottans/frontend/blob/202
 </details>
 
 ## Git Collaboration
-[Part 1](https://github.com/prev1ew/kottans-frontend/blob/main/task_git_collaboration/p1.png)
+[Part 1](https://github.com/prev1ew/kottans-frontend/blob/main/task_git_collaboration/p1.png)  
 [Part 2](https://github.com/prev1ew/kottans-frontend/blob/main/task_git_collaboration/p2.png)
 <details>
 <summary>Фидбек</summary>
@@ -45,7 +45,7 @@ Front-End Course [kottans-frontend](https://github.com/kottans/frontend/blob/202
 </details>
 
 ## Intro to HTML and CSS
-[HTML](https://github.com/prev1ew/kottans-frontend/blob/main/task_html_css_intro/HTML.png)
+[HTML](https://github.com/prev1ew/kottans-frontend/blob/main/task_html_css_intro/HTML.png)  
 [CSS](https://github.com/prev1ew/kottans-frontend/blob/main/task_html_css_intro/CSS.png)
 <details>
 <summary>Фидбек</summary>
@@ -66,8 +66,8 @@ Front-End Course [kottans-frontend](https://github.com/kottans/frontend/blob/202
 </details>
 
 ## Responsive Web Design
-[FLEXBOX](https://github.com/prev1ew/kottans-frontend/blob/main/task_responsive_web_design/Flex.png)
-[CSS Grid Layout](https://github.com/prev1ew/kottans-frontend/blob/main/task_responsive_web_design/Grid.png)
+[FLEXBOX](https://github.com/prev1ew/kottans-frontend/blob/main/task_responsive_web_design/Flex.png)  
+[CSS Grid Layout](https://github.com/prev1ew/kottans-frontend/blob/main/task_responsive_web_design/Grid.png)  
 <details>
 <summary>Фидбек</summary>
   <details>
@@ -87,5 +87,5 @@ Front-End Course [kottans-frontend](https://github.com/kottans/frontend/blob/202
 </details>
 
 ## HTML-CSS-Popup
-[Code](https://github.com/prev1ew/kottans-frontend/blob/main/task_html_css_popup)
+[Code](https://github.com/prev1ew/kottans-frontend/blob/main/task_html_css_popup)  
 [Demo](https://prev1ew.github.io/)
